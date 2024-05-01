@@ -1,0 +1,48 @@
+
+nav{
+    padding: 1rem;
+    background-color: aliceblue;
+    width: 60%;
+    margin: 10% auto 10% auto;
+    padding: 5%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #333333
+}
+
+.nav-con{
+    display: flex;
+}
+
+img{
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+}
+
+.ta{
+    font-size: 1rem;
+    width: 50%;
+    padding-left: 2rem;
+}
+
+.name h1{
+    font-size: 1.5rem;
+}
+
+.name p{
+    margin: 1.5rem 0;
+}
+
+hr{
+    border-style: none; 
+    border-top-style: dotted;
+    border-color: brown;
+    border-width:3px;
+    width: 50%;
+}
+.social a{
+    height: 50;
+    width: 50;
+}
+
+
